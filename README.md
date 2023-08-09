@@ -4,7 +4,11 @@ Android Studio SQLite database
 
 Main Page
 ![photo1691569867 (2)](https://github.com/AyeshaMulla369/GroceryApp/assets/96511827/e037a0a5-fa94-426e-811d-205c5794c3d8)
+
+
 It has variety of types of items
+
+
 Recnetly Viewed Items etc
 
 ![photo1691569867 (1)](https://github.com/AyeshaMulla369/GroceryApp/assets/96511827/c86fbe4e-2091-452b-84a3-58fbc2dc5a71)
